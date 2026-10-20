@@ -11,11 +11,10 @@ I also explore machine learning applications in cybersecurity, from implementing
 
 ---
 
-### Technical Skills & Areas of Interest
+### Areas of Interest
 - **Offensive Security**: Reconnaissance, enumeration, vulnerability analysis, privilege escalation, and penetration-testing methodologies.
 - **Web & Network Security**: Web application testing, network enumeration, and common security misconfigurations.
-- **Systems & Scripting**: Linux, Python, Bash, and Git.
-- **CTF Categories**: web exploitation, pwn, forensics, cryptography, OSINT, and binary exploitation.
+- **CTFs**: web exploitation, pwn, forensics, cryptography, OSINT, and binary exploitation.
 
 ---
 
