@@ -3,28 +3,31 @@
 ## Computer Engineering Student | Aspiring Penetration Tester
 ### pwnzer0tt1 CTF Team · Cybersecurity & Cloud
 
-I'm an MSc student in Computer Engineering, specialising in Cybersecurity and Cloud at the Polytechnic University of Bari, where I follow a fully English-taught curriculum.
+I'm an MSc student in Computer Engineering, specialising in Cybersecurity and Cloud at the Polytechnic University of Bari, where my degree programme is taught and assessed entirely in English.
 
-I'm interested in offensive security, penetration testing, and understanding how systems can be compromised and secured. Through CTF competitions, hands-on labs, and personal projects, I'm building my practical skills and documenting what I learn along the way.
+I'm passionate about offensive security and penetration testing, with a particular interest in understanding how systems can be compromised, assessed, and secured. Through CTF competitions, hands-on labs, and personal projects, I'm continuously developing my practical skills and documenting my learning process.
 
-I also explore machine learning applications in cybersecurity, from implementing algorithms from scratch to experimenting with security-related datasets.
+I've completed the Hack The Box Certified Penetration Testing Specialist (CPTS) learning path and continue to practise through HTB labs, focusing on reconnaissance, enumeration, vulnerability assessment, exploitation, and privilege escalation.
+
 
 ---
 
 ### Areas of Interest
-- **Offensive Security**: Reconnaissance, enumeration, vulnerability analysis, privilege escalation, and penetration-testing methodologies.
-- **Web & Network Security**: Web application testing, network enumeration, and common security misconfigurations.
-- **CTFs**: web exploitation, pwn, forensics, cryptography, OSINT, and binary exploitation.
+- **Offensive Security:** Reconnaissance, enumeration, vulnerability assessment, exploitation, privilege escalation, and penetration testing methodologies.
+- **Web & Network Security:** Web application security testing, network enumeration, and security misconfiguration analysis.
+- **CTF Competitions:** Web exploitation, binary exploitation (pwn), reverse engineering, cryptography, forensics, and OSINT.
 
 ---
 
 ### Projects & Hands-on Experience
-- **pwnzer0tt1 — Academic CTF Team**: Participating in cybersecurity competitions and developing practical problem-solving skills across different CTF categories.
-- **Hack The Box**: Working through hands-on machines and documenting my methodology, findings, and lessons learned in a separate reports repository.
-- **Cybersecurity Tools**: Developing Python scripts and small tools to automate tasks and explore offensive security concepts.
-- **CTF Write-ups**: Documenting challenge solutions, research methods, and lessons learned, including challenges revisited after competitions.
-- **Machine Learning for Cybersecurity**: Studying ML fundamentals and implementing algorithms from scratch using cybersecurity-related datasets.
-- **GuardHop — Adversarially Robust Adaptive AI Security Gateway**: Collaborating on a prototype security gateway designed to detect and mitigate adversarial attacks against deployed AI models.
+- **pwnzer0tt1 — Academic CTF Team:** Participating in cybersecurity competitions and solving technical challenges across multiple security domains.
+- **Hack The Box:** Working through hands-on labs and machines, documenting methodologies, findings, and lessons learned in a dedicated reports repository.
+- **Cybersecurity Tools:** Developing Python scripts and lightweight tools to automate security-related tasks and explore offensive security techniques.
+- **CTF Write-ups:** Documenting challenge-solving approaches, exploitation techniques, and lessons learned, including post-competition analysis.
+- **Machine Learning for Cybersecurity:** Implementing machine learning algorithms from scratch and experimenting with cybersecurity-related datasets.
+- **GuardHop — Adversarially Robust Adaptive AI Security Gateway:** Contributing to a prototype security gateway designed to detect and mitigate adversarial attacks against deployed AI models.
+
+Some projects are still under development and will be published soon!
 
 ---
 
